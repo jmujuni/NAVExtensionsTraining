@@ -1,0 +1,23 @@
+{
+  "id": "5f01f02f-cdd3-4994-8040-52dce6970bc0",
+  "name": "ALProject1",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "0.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.12925.0",
+  "application": "11.0.21441.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
